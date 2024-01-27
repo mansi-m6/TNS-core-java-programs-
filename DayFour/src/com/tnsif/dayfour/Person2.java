@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Person2 {
 	public static void main(String args[]) {
 		//Scanner object to to access the input from user
-		Scanner sc= new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		String personName;
 		System.out.println("Enter Person Name");
 		personName=sc.next();
